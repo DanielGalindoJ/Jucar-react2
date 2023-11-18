@@ -196,7 +196,7 @@ const ShowAutoparts = () => {
 
 
       <nav className="navbar navbar-expand-md py-3 navbar-light" style={{ color: ' #e73d4a', background: ' var() { } }--} bs-danger ',borderBottomcolor:' var(--bs-gray-500)'}}>
-      <div className="container"><img src={logoJucar} alt='logoJucar' width="182" height="116" /><a className= ''navbar-brand d-flex align-items-center ></a><button className="navbar-toggler" data-bs-toggle="collapse" data-bs-target="#navcol-1"><span className="visually-hidden">Toggle navigation</span><span className="navbar-toggler-icon"></span></button>
+      <div className="container"><img src={logoJucar} alt='logoJucar' width="182" height="116" /><button className="navbar-toggler" data-bs-toggle="collapse" data-bs-target="#navcol-1"><span className="visually-hidden">Toggle navigation</span><span className="navbar-toggler-icon"></span></button>
         <div id="navcol-1" className="collapse navbar-collapse">
           <ul className="navbar-nav ms-auto">
             <li className="nav-item"></li>
